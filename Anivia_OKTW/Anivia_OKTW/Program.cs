@@ -7,7 +7,7 @@ using LeagueSharp.Common;
 using System.IO;
 using SharpDX;
 
-namespace Annie
+namespace Anivia
 {
     class Program
     {
